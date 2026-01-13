@@ -15,7 +15,7 @@ return options[randIdx];
 const drawGame=()=>{
   console.log("Game Was Draw. Play Again");
   Message.innerText = "Game Draw, Play Again!";
-  Message.style.backgroundColor = "white";
+  Message.style.backgroundColor = "purple";
   // Message.style.textColor = "Brown";
   // Find the correct syntaxt to change the text color and apply here.
 }
